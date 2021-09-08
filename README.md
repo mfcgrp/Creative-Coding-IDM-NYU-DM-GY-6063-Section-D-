@@ -1,5 +1,5 @@
 # Welcome to Creative Coding!
-## DM-GY 6063 Creative Coding Section D
+## DM-GY 6063 Section D
 ![...](/img/CreativeCode1.jpg)
 *	Term: Fall 2021
 *	Instructor: Melissa F Clarke
