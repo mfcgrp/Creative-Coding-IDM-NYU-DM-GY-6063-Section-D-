@@ -6,7 +6,9 @@
 *	Instructor Email: ⦁	mfc312@nyu.edu
 *	Class meeting: Wed 6:30pm – 9:20pm, 370 Jay Street, Room 312 (3rd Floor)
 *	Office Hours: ⦁	Tuesdays 6-7:30pm
-    NB : This syllabus is subject to change
+   
+   
+   NB : This syllabus is subject to change
 
 ## Pre-requisites
 None!
