@@ -24,7 +24,12 @@
 
   ⦁	Create an online blog for the class and send me the link
 
-  ⦁	Make a ⦁	[selfie or a Sol Lewitt project](https://idmnyu.github.io/DM-GY-6063-Creative-Coding-A-Fall-2020/assignments.html) and post a link to it on your blog
+  ⦁	Make a ⦁	[selfie or a Sol Lewitt project]
+ Selfie - Using primitives like arcs, rectangles, and ellipses create a self portrait and post a link to it on your class blog
+Sol Lewitt drawing exercise. As precisely as possible, follow the instructions of one Sol Lewitt wall drawing text and translate it into p5.js code to produce the drawing. Look at [Solving Sol](https://solvingsol.com/) as a reference and for inspiration. Choose one wall drawing text from the following list, write the code and post a link to the project on your class blog:
+[Wall Drawing #65 (1971):](https://www.flickr.com/photos/jumpingshark/2910188985) Lines not short, not straight, crossing and touching, drawn at random, using four colors, uniformly dispersed with maximum density, covering the entire surface of the wall.
+[Wall Drawing #396 (1983):](https://massmoca.org/event/walldrawing396/A) black five-pointed star, a yellow six-pointed star, a red seven-pointed star, and a blue eight-pointed star, drawn in color and India ink washes.
+[Wall Drawing #915 (1999):](https://massmoca.org/event/walldrawing915/) Arcs, circle, and irregular bands.
 
   ⦁	Read ⦁	[Delusions of Dialogue: Control and Choice in Interactive Art by Jim Campbell.](https://www.jstor.org/stable/1576847) Access provided online by NYU library. Write a response to this on your blog, 150-250 words. What do you think of Campbell’s articulation of art in a computer?
 
