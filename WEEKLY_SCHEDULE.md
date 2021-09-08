@@ -2,7 +2,7 @@
 
 # Weekly Schedule
 
-![.](/img/creativecode2.jpg)
+![.](/img/CreativeCode2.jpg)
 
 ## ⦁	WEEK 1 - September 8
 
