@@ -76,14 +76,22 @@
   ⦁	question & answer time! nothimng should be unclear after this class ;)
 
   ⦁	you down with oop? A brief introduction to making objects in p5js
+
 ⦁	Assignments
-⦁	watch ⦁	videos on objects
-⦁	watch the ⦁	video on arrays
-⦁	Read ⦁	Objects of Our Affection : How Object Orientsation Made Computers a Meduim by Casey Alt. Online access provided by NYU libraries. It’s a denser read than the other things we have enagged with so far, so give yourself some extra time.
-⦁	Write a response to Alt’s chapter. He argues that computers became “media” and were no longer just big adding machines when data and interface became rolled into one. With your newfound perspective on what object oriented programming is thanks to the videos above, how do you think this changed computation? What does this provide you? How can you see this being useful?
-⦁	suggested reading ⦁	Getting Started With p5.js Chapters 10 & 11. Online access provided by NYU libraries.
-⦁	Watch ⦁	the video for Around the World by Daft Punk. While you’re enjoying the music, think about how each of the different dancers/monsters in the video are like an object. They are similar, but have their own behaviors. Create a sketch that has a dance party. Use multiple instances of a class, or create multiple classes and many objects thsat have their own dance party. Your idea of a dance party may not have actual bodies, that’s ok. Explore different kinds of ways of creating objects with unique behaviors. Post this on your class site.
-⦁	WEEK 4 - September 29
+
+  ⦁	watch [videos on objects](https://www.youtube.com/playlist?list=PLnkvii1uWBvHpcbXFMlbSsCys2UhtMr7w)
+
+  ⦁	watch the [video on arrays](https://www.youtube.com/playlist?list=PLnkvii1uWBvFGoi0yz3Fx93F4tlsucJ03)
+
+  ⦁	Read [Objects of Our Affection : How Object Orientsation Made Computers a Meduim](https://ebookcentral.proquest.com/auth/lib/nyulibrary-ebooks/login.action?returnURL=https%3A%2F%2Febookcentral.proquest.com%2Flib%2Fnyulibrary-ebooks%2Freader.action%3FdocID%3D769730%26ppg%3D289) by Casey Alt. Online access provided by NYU libraries. It’s a denser read than the other things we have enagged with so far, so give yourself some extra time.
+
+  ⦁	Write a response to Alt’s chapter. He argues that computers became “media” and were no longer just big adding machines when data and interface became rolled into one. With your newfound perspective on what object oriented programming is thanks to the videos above, how do you think this changed computation? What does this provide you? How can you see this being useful?
+
+  ⦁	suggested reading ⦁	[Getting Started With p5.js](https://ebookcentral.proquest.com/auth/lib/nyulibrary-ebooks/login.action?returnURL=https%3A%2F%2Febookcentral.proquest.com%2Flib%2Fnyulibrary-ebooks%2Freader.action%3FdocID%3D4333728%26ppg%3D173) Chapters 10 & 11. Online access provided by NYU libraries.
+
+  ⦁	Watch [the video for Around the World by Daft Punk](https://www.youtube.com/watch?v=LKYPYj2XX80) While you’re enjoying the music, think about how each of the different dancers/monsters in the video are like an object. They are similar, but have their own behaviors. Create a sketch that has a dance party. Use multiple instances of a class, or create multiple classes and many objects thsat have their own dance party. Your idea of a dance party may not have actual bodies, that’s ok. Explore different kinds of ways of creating objects with unique behaviors. Post this on your class site.
+
+## 	WEEK 4 - September 29
 Bradford Paley’s CodeProfiles
 ⦁	questions and answers about objects and arrays
 ⦁	organizing your code into multiple files - aka bliss
