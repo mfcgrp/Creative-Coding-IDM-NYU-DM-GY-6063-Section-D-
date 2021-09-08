@@ -1,6 +1,6 @@
 # Welcome to Creative Coding!
 ## DM-GY 6063 Creative Coding Section D
-![Glitch](/img/creativecode.gif)
+![...](/img/CreativeCode1.jpg)
 *	Term: Fall 2021
 *	Instructor: Melissa F Clarke
 *	Instructor Email: ⦁	mfc312@nyu.edu
