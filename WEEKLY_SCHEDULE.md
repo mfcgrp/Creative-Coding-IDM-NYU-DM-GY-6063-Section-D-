@@ -89,89 +89,170 @@
 
   ⦁	suggested reading ⦁	[Getting Started With p5.js](https://ebookcentral.proquest.com/auth/lib/nyulibrary-ebooks/login.action?returnURL=https%3A%2F%2Febookcentral.proquest.com%2Flib%2Fnyulibrary-ebooks%2Freader.action%3FdocID%3D4333728%26ppg%3D173) Chapters 10 & 11. Online access provided by NYU libraries.
 
-  ⦁	Watch [the video for Around the World by Daft Punk](https://www.youtube.com/watch?v=LKYPYj2XX80) While you’re enjoying the music, think about how each of the different dancers/monsters in the video are like an object. They are similar, but have their own behaviors. Create a sketch that has a dance party. Use multiple instances of a class, or create multiple classes and many objects thsat have their own dance party. Your idea of a dance party may not have actual bodies, that’s ok. Explore different kinds of ways of creating objects with unique behaviors. Post this on your class site.
+  ⦁	Watch [the video for Around the World by Daft Punk](https://www.youtube.com/watch?v=LKYPYj2XX80) While you’re enjoying the music, think about how each of the different dancers/monsters in the video are like an object. They are similar, but have their own behaviors.
+  ⦁	 Create a sketch that has a dance party. Use multiple instances of a class, or create multiple classes and many objects thsat have their own dance party. Your idea of a dance party may not have actual bodies, that’s ok. Explore different kinds of ways of creating objects with unique behaviors. Post this on your class site.
 
 ## 	WEEK 4 - September 29
-Bradford Paley’s CodeProfiles
+
+⦁	Bradford Paley’s CodeProfiles
+
 ⦁	questions and answers about objects and arrays
+
 ⦁	organizing your code into multiple files - aka bliss
+
 ⦁	a bit about pseudocode
+
 ⦁	Assignments
-⦁	watch ⦁	these 4 short videos about debugging It’s about code and hardware, but it’s super useful for orienting yourself mentally to tackle this stupid important process
-⦁	read ⦁	the p5js guide on debugging
-⦁	watch ⦁	Objects talking with other objects
-⦁	watch ⦁	More about arrays
-⦁	Create a sketch that adds objects based on interaction (mousepress, keystroke, etc) that interact with each other (collision, repulsion, etc.) or create a sketch that makes faces which have multiple dimensions of variability (skin color, eyes, ears, mouth, hair, age, etc). A new face should eb created everytime you click the mouse. For either example, write the sketch as pseudo-code first, then fill in your code afterwards.
-⦁	WEEK 5 - October 6
+
+  ⦁	watch ⦁	these 4 short videos about debugging It’s about code and hardware, but it’s super useful for orienting yourself mentally to tackle this stupid important process
+
+  ⦁	read ⦁	the p5js guide on debugging
+
+  ⦁	watch ⦁	Objects talking with other objects
+
+  ⦁	watch ⦁	More about arrays
+
+  ⦁	Create a sketch that adds objects based on interaction (mousepress, keystroke, etc) that interact with each other (collision, repulsion, etc.) or create a sketch that makes faces which have multiple dimensions of variability (skin color, eyes, ears, mouth, hair, age, etc). A new face should eb created everytime you click the mouse. For either example, write the sketch as pseudo-code first, then fill in your code afterwards.
+
+##	WEEK 5 - October 6
+
 ⦁	review work
+
 ⦁	Vectors
+
 ⦁	recording things
-⦁	discuss midterm
+
 ⦁	Assignments
-⦁	watch ⦁	working with APIs and JSON
-⦁	Look at examples of data based art
-⦁	Suggested Reading ⦁	Getting Started With p5.js Chapter 12 on Data. Online access provided by NYU libraries.
-⦁	read ⦁	Art and the API by Jer Thorp reflect of how you can use data from an API to tell a story or be persuasive.
-⦁	create a sketch that calls an API, processes the data, and visualizes it somehow. A non-exhaistive list of ⦁	publically available APIs can be found here
-⦁	write a proposal for your midterm project. This includes a narrative description and a high level pseudocode explainer. Add sketches, gifs, and images as appropriate. Identify where you expect to run into trouble, or where you think you will have a gap in your knowledge.
-⦁	WEEK 6 - October 13
+
+  ⦁	watch ⦁	working with APIs and JSON
+
+  ⦁	Look at examples of data based art
+
+  ⦁	Suggested Reading ⦁	Getting Started With p5.js Chapter 12 on Data. Online access provided by NYU libraries.
+
+  ⦁	read ⦁	Art and the API by Jer Thorp reflect of how you can use data from an API to tell a story or be persuasive.
+
+  ⦁	create a sketch that calls an API, processes the data, and visualizes it somehow. A non-exhaistive list of ⦁	publically available APIs can be found here
+
+  ⦁	write a proposal for your midterm project. This includes a narrative description and a high level pseudocode explainer. Add sketches, gifs, and images as appropriate. Identify where you expect to run into trouble, or where you think you will have a gap in your knowledge.
+
+##	WEEK 6 - October 13
+
 ⦁	Review your work with APIs
+
 ⦁	Discuss your midterms
+
 ⦁	working with libraries
+
 ⦁	Assignments
-⦁	watch ⦁	this series of videos on the DOM
-⦁	watch ⦁	this video series on the audio library
-⦁	optionally watch these videos on the ⦁	scribble and ⦁	RiTa libraries
-⦁	create a small sketch that uses a library to enahnce a sketch. For example, use the DOM to create sliders or buttons for interfaces, use peasycam to navigate a 3D space, use p5.scribble to mimic hand drawn images, etc etc etc.
-⦁	continue to work on your midterm. You should have progressed to a point where you have a skeleton that has some basic functionality. You fully and write out as pseudocode/comments what functions, classes and objects you will need and what they will do.
-⦁	WEEK 7 - October 20
+
+  ⦁	watch ⦁	this series of videos on the DOM
+
+  ⦁	watch ⦁	this video series on the audio library
+
+  ⦁	optionally watch these videos on the ⦁	scribble and ⦁	RiTa libraries
+
+  ⦁	create a small sketch that uses a library to enahnce a sketch. For example, use the DOM to create sliders or buttons for interfaces, use peasycam to navigate a 3D space, use p5.scribble to mimic hand drawn images, etc etc etc.
+
+  ⦁	continue to work on your midterm. You should have progressed to a point where you have a skeleton that has some basic functionality. You fully and write out as pseudocode/comments what functions, classes and objects you will need and what they will do.
+
+##	WEEK 7 - October 20
+
 ⦁	review questions about libraries and use - who found something cool?
+
 ⦁	midterm workshop
+
 ⦁	video and image manipulation lecture
+
 ⦁	Possible guest speaker on video and animation art with code
+
 ⦁	optionally watch video tracking and image manipulation videos
+
 ⦁	read these notes on ⦁	video and image manipulation
+
 ⦁	optionally read my harebrained ⦁	notes on video tracking and computer vision
+
 ⦁	finish your midterm project. Write a post about your work, describing what you did and why you did it. Take a step back and refelct on what you would have done differently (if anything!) and the challenges you faced/overcame - this could be conceptual, technical, or aesthetic. Explain how you might continue to work on this project if you had the time and motivation to do so. Remember, your project must have the following elements : 1) pseudocode of what you set out to do, 2) well commented code that explains what functions, classes, and objects are doing in your program 3) clear attribution with links to other’s code as appropriate.
-⦁	WEEK 8 - October 27
+
+##WEEK 8 - October 27
+
 ⦁	Midterm presentations - everyone will have 5 minutes to present their work. Show what you did, share the link in the chat, and describe your process. What did you learn from this exercise?
+
 ⦁	For those of you coming to class on Nov 4, bring the Arduino kit you received in the backpack you picked up. For thoae of you who are remote, make sure you have that available.
+
 ⦁	read these harebarined ⦁	notes on electricity
+
 ⦁	watch these videos on ⦁	your Arduino Kit
+
 ⦁	watch these videos on ⦁	electricity and circuits
+
 ⦁	buid a circuit with a switch you make on your own that can be operated without using your hands. Think about what you have that is conductive. Aluminum foil works well. Be careful you do not cause a short! Always unplug your Arduino before changing anything in your circuit, and check to make sure there are no loose wires. (Links will be sent on project ideas)
-⦁	WEEK 9 - November 3
+
+##	WEEK 9 - November 3
+
 ⦁	Using a multimeter
+
 ⦁	what’s up switches?
+
 ⦁	review your work - questions?
+
 ⦁	read these harebarined ⦁	notes on digital input and output
+
 ⦁	watch these ⦁	videos on setting up the Arduino IDE and what all those pins on your board do
+
 ⦁	watch these ⦁	videos on digital input and output
+
 ⦁	read this article from ⦁	Don Norman, Attractive Things Work Better
+
 ⦁	build With the switch you built last week (or a different one if you want to experiment) use the Arduino to provide some meaningful feedback on what the action you engage in means. For example — if you are trying to notify someone that their posture is good or bad, could you make a switch that was based on how they stood, and notify them if they are not straight? What about gettting someone to smile for a camera? Using the digital input and output provide feedback to your user that is meaningful in context. Labeling LEDs with text, or using different colored lights to indicate things is helpful, try diffusing the light with paper or a ping pong ball, how does that change the quality of the light?
-⦁	WEEK 10 - November 10
+
+## WEEK 10 - November 10
+
 ⦁	watch these videos on ⦁	analog input ⦁	 HYPERLINK "https://www.youtube.com/playlist?list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH"⦁	 HYPERLINK "https://www.youtube.com/playlist?list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH"⦁	 HYPERLINK "https://www.youtube.com/playlist?list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH"⦁	 HYPERLINK "https://www.youtube.com/playlist?list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH"⦁	 HYPERLINK "https://www.youtube.com/playlist?list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH"⦁	 HYPERLINK "https://www.youtube.com/playlist?list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH"⦁	 HYPERLINK "https://www.youtube.com/playlist?list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH"⦁	&⦁	 HYPERLINK "https://www.youtube.com/playlist?list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH"⦁	 HYPERLINK "https://www.youtube.com/playlist?list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH"⦁	 HYPERLINK "https://www.youtube.com/playlist?list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH"⦁	 HYPERLINK "https://www.youtube.com/playlist?list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH"⦁	 HYPERLINK "https://www.youtube.com/playlist?list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH"⦁	 HYPERLINK "https://www.youtube.com/playlist?list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH"⦁	 HYPERLINK "https://www.youtube.com/playlist?list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH"⦁	 output
+
 ⦁	watch these videos on ⦁	servos and libraries
+
 ⦁	optionally watch these videos on the built in sensors of your Arduino (IMUs! an acceleromteter, gyroscope and magnometer)
+
 ⦁	optionally watch this video on building a capacitive touch sensor
+
 ⦁	read the chapter I will distribute in slack
+
 ⦁	read ⦁	these notes on analog Input/output
+
 ⦁	make/build/code a love compatiability machine. Using analog input and/or analog output, make a love compatiability machine. This could be 2 photocells that have an LED as an output, or a pair of buttons that enagge a servo motor, or one photocell that people need to clasp hands over, or anything else that demonstrates how to display how compatiable people are.
-⦁	WEEK 11 - November 17
+
+##	WEEK 11 - November 17
+
 ⦁	review love machines!
+
 ⦁	Serial communication with a microcontroller in class
+
 ⦁	read these ⦁	notes on serial commuication
+
 ⦁	Watch these ⦁	videos to review serial communication
+
 ⦁	Watch ⦁	videos on Bluetooth communcation Life conspired against us, and I was ubnable to make this video content. I strongly reccommend ⦁	Tom Igoe’s notes on BLE communitcation
+
 ⦁	make/build/code control a sketch with a physical interface - take one of your early p5 sketches and make it controllable with a switch, pot or photocell using serial or bluetooth communcation. Alternatively, create a new p5 sketch that reacts to soem sort of input. How does this change in control transform the exerience of using the sketch?
-⦁	WEEK 12 - November 24
+
+##	WEEK 12 - November 24
+
 ⦁	Advanced topics
+
 ⦁	final project proposal
+
 ⦁	start working on your final project! Write up a block diagram or pseudocode of your projct. Create a story board that scales the project from a small to larger instense. Think about all the materials, libraries or code you will need. Start the implementation of your projects!.
 ⦁	take at least one full dday off this weekend to rest!
-⦁	WEEK 13 - December 1
+
+##	WEEK 13 - December 1
+
 ⦁	Final project reviews - reality check / workshopping / critique
+
 ⦁	WEEK 14 - December 8
+
 ⦁	Final project presentation
+
 ⦁	Project and documentation due on Wed Dec 15
+
 ⦁	On your blog, document your work. This sould include sketches, links to code or the project itself, video, inages, etc. Write a description of the process you took to make it. What influenced you? What were you trying to convey with your work? Did you rely on the work of others? be sure to link to those resources and describe how you used them. What would you have done differently if you knew then what you know now? What woudl you do if you had more time to to work on this? Or, what is your dream project based on this?
