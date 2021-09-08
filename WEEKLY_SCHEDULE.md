@@ -1,44 +1,77 @@
-Creative Coding
-Class page for IDM NYU DM-GY 6063 Creative Coding Section D Fall 2021
-Weekly Schedule
+## Class page for IDM NYU DM-GY 6063 Creative Coding Section D Fall 2021
 
+# Weekly Schedule
 
-⦁	WEEK 1 - September 8
+![.]((/img/creativecode2.jpg))
+
+## ⦁	WEEK 1 - September 8
+
 ⦁	Housekeeping - Ritual reading of the syllabus
+
 ⦁	What is ‘creative coding’? Introductions
+
 ⦁	pixels on a screen - coordinate system
+
 ⦁	setting up a local dev environment
+
 ⦁	p5js online editor
+
 ⦁	drawing with p5js
+
 ⦁	brief intro to color
+
 ⦁	Assignment
-⦁	Create an online blog for the class and send me the link
-⦁	Make a ⦁	selfie or a Sol Lewitt project and post a link to it on your blog
-⦁	Read ⦁	Delusions of Dialogue: Control and Choice in Interactive Art by Jim Campbell. Access provided online by NYU library. Write a response to this on your blog, 150-250 words. What do you think of Campbell’s articulation of art in a computer?
-⦁	Read ⦁	pages 10-41 ‘What is Code’ and ‘From and Computers’ in FORM+CODE available online though NYU Libraries.
-⦁	Suggested Reading ⦁	Getting Started With p5.js Chapters 1-3. Online access provided by NYU libraries.
-No Class September 9, classes run on a Monday schedule
-I will be sending you videos to watch before class on Sept 16
-⦁	WEEK 2 - September 15
+
+    ⦁	Create an online blog for the class and send me the link
+
+    ⦁	Make a ⦁	[selfie or a Sol Lewitt project](https://idmnyu.github.io/DM-GY-6063-Creative-Coding-A-Fall-2020/assignments.html) and post a link to it on your blog
+
+    ⦁	Read ⦁	[Delusions of Dialogue: Control and Choice in Interactive Art by Jim Campbell.](https://www.jstor.org/stable/1576847) Access provided online by NYU library. Write a response to this on your blog, 150-250 words. What do you think of Campbell’s articulation of art in a computer?
+
+    ⦁	Read ⦁	[pages 10-41 ‘What is Code’ and ‘From and Computers’ in FORM+CODE](https://shibboleth.nyu.edu/idp/profile/SAML2/POST/SSO?execution=e1s1) available online though NYU Libraries.
+
+    ⦁	Suggested Reading ⦁	[Getting Started With p5.js](https://shibboleth.nyu.edu/idp/profile/SAML2/POST/SSO?execution=e2s1) Chapters 1-3. Online access provided by NYU libraries.
+
+
+##	WEEK 2 - September 15
+
 ⦁	pre-work
-⦁	watch ⦁	videos on variables, conditionals
-⦁	optional video on ⦁	local development
-⦁	discussion of campbell article
-⦁	review your work, q&a - what worked for you and what didn’t?
-⦁	animation, and time discussion
-⦁	link of the week - ⦁	For Your Processing
+
+⦁	watch ⦁	[videos on variables, conditionals](https://www.youtube.com/playlist?list=PLnkvii1uWBvFCo84lUMwR2Sgxe1yWOt6Z)
+
+⦁	watch video on ⦁	[local development](https://www.youtube.com/watch?v=NTGebvhZ4kk)
+
+    ⦁	discussion of campbell article
+
+    ⦁	review your work, q&a - what worked for you and what didn’t?
+
+    ⦁	animation, and time discussion
+
+    ⦁	link of the week - ⦁	For Your Processing
+
 ⦁	Assignment
-⦁	Watch the ⦁	videos on loops
-⦁	Watch the ⦁	videos on functions
-⦁	Optional but encouraged ⦁	videos on translation
-⦁	Read ⦁	p5.js Tutorial on interaction, in particular pay attention to the section on Events. The aspects in the aricle that describe mouseOver() and mouseOut() are our of scope for our discussion at the moment, so don’t worry if you don’t entirely get what it’s describing.
-⦁	Read ⦁	The Art of Interactive Design Chapter 1. Online access provided by NYU libraries. Write a response to this on your blog — Crawford defines interaction as something that can happen along a continuum, from a simple switch to a deep and engaging conversation. How do you define interaction? Would you consider a book to be interactive? What about a plant you need to care for? How about a puppy? What about your sketches?
-⦁	Suggested Reading ⦁	Getting Started With p5.js Chapters 4-6. Online access provided by NYU libraries.
-⦁	Create one of the following and post a link to the sketch on your website
-⦁	Make a clock with p5js. Functions like second(), hour() and minute() are useful here! The clock can be ⦁	analogous to a real-world clock or it could be an ⦁	abstract way of telling time
-⦁	using your mouse and a simple shape (rect, ellipse, arc, triangle, line, polygon), create an interaction that causes the shape to demonstrate an emotion. It could be fear, attraction, desire, exhaustion. Your choice. Obviously mouseX and mouseY are helpful. Examples like this ⦁	easing function might be inspirational, as would notes from the ⦁	12 principles of animation
-⦁	WEEK 3 - September 22
-⦁	review your work
+
+    ⦁	Watch the ⦁	[videos on loops](https://www.youtube.com/playlist?list=PLnkvii1uWBvFPvNnW66SU9u5T1a35eKRp)
+
+    ⦁	Watch the ⦁	[videos on functions](https://www.youtube.com/playlist?list=PLnkvii1uWBvG7DY6mCeW3Yn6IdmQ8qm1V)
+
+    ⦁	Optional but encouraged ⦁	[videos on translation](https://www.youtube.com/playlist?list=PLnkvii1uWBvE1LbyWKMRtoLC2XaIcN8gN)
+
+    ⦁	Read ⦁	[p5.js Tutorial on interaction,](https://p5js.org/learn/interactivity.html) in particular pay attention to the section on Events. The aspects in the aricle that describe mouseOver() and mouseOut() are our of scope for our discussion at the moment, so don’t worry if you don’t entirely get what it’s describing.
+
+    ⦁	Read ⦁	[The Art of Interactive Design Chapter 1.](https://shibboleth.nyu.edu/idp/profile/SAML2/POST/SSO?execution=e1s1) Online access provided by NYU libraries. Write a response to this on your blog — Crawford defines interaction as something that can happen along a continuum, from a simple switch to a deep and engaging conversation. How do you define interaction? Would you consider a book to be interactive? What about a plant you need to care for? How about a puppy? What about your sketches?
+
+    ⦁	Suggested Reading ⦁	[Getting Started With p5.js](https://shibboleth.nyu.edu/idp/profile/SAML2/POST/SSO?execution=e2s1) Chapters 4-6. Online access provided by NYU libraries.
+
+    ⦁	Create one of the following and post a link to the sketch on your website
+
+    ⦁	Make a clock with p5js. Functions like second(), hour() and minute() are useful here! The clock can be ⦁	[analogous to a real-world clock[(https://p5js.org/examples/input-clock.html)] or it could be an ⦁	[abstract way of telling time](https://openprocessing.org/sketch/855977)
+
+    ⦁	using your mouse and a simple shape (rect, ellipse, arc, triangle, line, polygon), create an interaction that causes the shape to demonstrate an emotion. It could be fear, attraction, desire, exhaustion. Your choice. Obviously mouseX and mouseY are helpful. Examples like this [easing function](https://p5js.org/examples/input-easing.html) might be inspirational, as would notes from the [12 principles of animation](https://vimeo.com/93206523)
+
+##	WEEK 3 - September 22
+
+    ⦁	review your work
 ⦁	question & answer time! nothimng should be unclear after this class ;)
 ⦁	you down with oop? A brief introduction to making objects in p5js
 ⦁	Assignments
