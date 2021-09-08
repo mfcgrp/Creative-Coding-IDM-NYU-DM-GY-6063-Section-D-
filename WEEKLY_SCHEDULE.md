@@ -24,7 +24,7 @@
 
   ⦁	Create an online blog for the class and send me the link
 
-  ⦁	Make a ⦁	[selfie or a Sol Lewitt project]
+  ⦁	Make a Selfie or a Sol Lewitt project
  Selfie - Using primitives like arcs, rectangles, and ellipses create a self portrait and post a link to it on your class blog
 Sol Lewitt drawing exercise. As precisely as possible, follow the instructions of one Sol Lewitt wall drawing text and translate it into p5.js code to produce the drawing. Look at [Solving Sol](https://solvingsol.com/) as a reference and for inspiration. Choose one wall drawing text from the following list, write the code and post a link to the project on your class blog:
 [Wall Drawing #65 (1971):](https://www.flickr.com/photos/jumpingshark/2910188985) Lines not short, not straight, crossing and touching, drawn at random, using four colors, uniformly dispersed with maximum density, covering the entire surface of the wall.
