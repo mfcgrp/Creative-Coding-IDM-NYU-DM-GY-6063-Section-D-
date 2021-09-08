@@ -94,7 +94,7 @@
 
 ## 	WEEK 4 - September 29
 
-⦁	Bradford Paley’s CodeProfiles
+⦁	Bradford Paley’s [CodeProfiles](http://wbradfordpaley.com/live/)
 
 ⦁	questions and answers about objects and arrays
 
@@ -104,13 +104,13 @@
 
 ⦁	Assignments
 
-  ⦁	watch ⦁	these 4 short videos about debugging It’s about code and hardware, but it’s super useful for orienting yourself mentally to tackle this stupid important process
+  ⦁	watch [these 4 short videos about debugging](https://vimeo.com/channels/debugging) It’s about code and hardware, but it’s super useful for orienting yourself mentally to tackle this stupid important process
 
-  ⦁	read ⦁	the p5js guide on debugging
+  ⦁	read [the p5js guide on debugging](https://p5js.org/learn/debugging.html)
 
-  ⦁	watch ⦁	Objects talking with other objects
+  ⦁	watch [Objects talking with other objects](https://www.youtube.com/playlist?list=PLnkvii1uWBvEF5xAptvHOpn7tXpDvBKty)
 
-  ⦁	watch ⦁	More about arrays
+  ⦁	watch [More about arrays](https://www.youtube.com/playlist?list=PLnkvii1uWBvFGoi0yz3Fx93F4tlsucJ03)
 
   ⦁	Create a sketch that adds objects based on interaction (mousepress, keystroke, etc) that interact with each other (collision, repulsion, etc.) or create a sketch that makes faces which have multiple dimensions of variability (skin color, eyes, ears, mouth, hair, age, etc). A new face should eb created everytime you click the mouse. For either example, write the sketch as pseudo-code first, then fill in your code afterwards.
 
@@ -124,11 +124,11 @@
 
 ⦁	Assignments
 
-  ⦁	watch ⦁	working with APIs and JSON
+  ⦁	watch [working with APIs and JSON](https://www.youtube.com/playlist?list=PLnkvii1uWBvHG11Cyyvb3rxC5QXi7OMzH)
 
   ⦁	Look at examples of data based art
 
-  ⦁	Suggested Reading ⦁	Getting Started With p5.js Chapter 12 on Data. Online access provided by NYU libraries.
+  ⦁	Suggested Reading [Getting Started With p5.js](https://shibboleth.nyu.edu/idp/profile/SAML2/POST/SSO?execution=e1s1) Chapter 12 on Data. Online access provided by NYU libraries.
 
   ⦁	read ⦁	Art and the API by Jer Thorp reflect of how you can use data from an API to tell a story or be persuasive.
 
