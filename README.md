@@ -64,13 +64,18 @@ There are no required books for class. Readings will be distributed as PDFs. Som
 
 ⦁ [Form+Code by Reas and McWilliams](http://formandcode.com/)
 
-Websites (Others may be referenced during class & links sent after lecture.
-Arduino
-p5js
-Processing
-OpenProcessing
-Creative Applications
-r/CreativeCoding
+## Websites (Others may be referenced during class & links sent after lecture.
+⦁ [Arduino](https://www.arduino.cc/)
+
+⦁ [p5js](https://p5js.org/)
+
+⦁ [Processing](https://processing.org/)
+
+⦁ [OpenProcessing](https://openprocessing.org/)
+
+⦁ [Creative Applications](https://www.creativeapplications.net/)
+
+⦁ [CreativeCoding](https://www.reddit.com/r/creativecoding/)
 
 ## Grading and Attendance Policy
 The assignments are designed to test and deepen your knowledge while giving me valuable information about how you’re progressing in the class. Remember, finished is better than perfect. An attempt at an assignment that does not meet your expectations is better than nothing at all. Save iterations as you go along, a working experiment is better turned and can be a great opportunity to reflect upon later.
