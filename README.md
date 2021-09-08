@@ -54,11 +54,11 @@ We’ll be distributing equipment in class during the first two weeks.
 ## Reading
 Books
 There are no required books for class. Readings will be distributed as PDFs. Some relevant titles that you may want to look into include :
-. [Generative Design 2nd ed by Benedikt Gross, Hartmut Bohnacker, Julia Laub, Claudius Lazzeroni](http://www.generative-gestaltung.de/2/)
-. [Getting Started with p5js by Lauren McCarthy, Casey Reas, and Ben Fry](https://www.oreilly.com/library/view/make-getting-started/9781457186769/)
-. [Getting Started with Arduino 3rd ed by Massimo Banzi and Michael Shiloh](https://www.oreilly.com/library/view/getting-started-with/9781449363321/)
-. [Interaction of Color by Josef Albers](https://yalebooks.yale.edu/book/9780300179354/interaction-color)
-. [Form+Code by Reas and McWilliams](http://formandcode.com/)
+⦁ [Generative Design 2nd ed by Benedikt Gross, Hartmut Bohnacker, Julia Laub, Claudius Lazzeroni](http://www.generative-gestaltung.de/2/)
+⦁ [Getting Started with p5js by Lauren McCarthy, Casey Reas, and Ben Fry](https://www.oreilly.com/library/view/make-getting-started/9781457186769/)
+⦁ [Getting Started with Arduino 3rd ed by Massimo Banzi and Michael Shiloh](https://www.oreilly.com/library/view/getting-started-with/9781449363321/)
+⦁ [Interaction of Color by Josef Albers](https://yalebooks.yale.edu/book/9780300179354/interaction-color)
+⦁ [Form+Code by Reas and McWilliams](http://formandcode.com/)
 Websites (Others may be referenced during class & links sent after lecture.
 Arduino
 p5js
