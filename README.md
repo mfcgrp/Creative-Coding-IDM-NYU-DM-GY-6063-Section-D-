@@ -43,9 +43,9 @@ While we will be meeting weekly in class, technical lectures will be provided as
 There will be weekly readings to accompany these videos, you should be prepared to discuss them in class. These will not be technical in nature. They are meant to provoke and excite you about the possibilities of using code as part of your practice.
 
 ## Software
-*	A code editor like ⦁	Brackets (https://brackets.io/) , ⦁	Sublime Text (https://www.sublimetext.com/) , ⦁	Atom (https://atom.io/) or ⦁	Visual Studio Code (https://code.visualstudio.com/?wt.mc_id=DX_841432).
-*	The ⦁	Arduino IDE (https://www.arduino.cc/en/software)
-*	an account with the ⦁	p5.js online editor (https://editor.p5js.org/)
+*	A code editor like ⦁	[Brackets] (https://brackets.io/) , ⦁	[Sublime Text] (https://www.sublimetext.com/) , ⦁	[Atom] (https://atom.io/) or ⦁	[Visual Studio Code] (https://code.visualstudio.com/?wt.mc_id=DX_841432).
+*	The ⦁	[Arduino IDE] (https://www.arduino.cc/en/software)
+*	an account with the ⦁	[p5.js online editor] (https://editor.p5js.org/)
 
 ## Hardware
 We’ll be distributing equipment in class during the first two weeks.
