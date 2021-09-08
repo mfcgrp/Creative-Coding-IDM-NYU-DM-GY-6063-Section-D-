@@ -7,6 +7,7 @@
 *	Class meeting: Wed 6:30pm – 9:20pm, 370 Jay Street, Room 312 (3rd Floor)
 *	Office Hours: ⦁	Tuesdays 6-7:30pm
    
+   ## This is an overview. See [weekly schedule](WEEKLY_SCHEDULE.md) for assignments and weekly topics.
    
    NB : This syllabus is subject to change
 
