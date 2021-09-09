@@ -4,7 +4,7 @@
 
 ![.](/img/CreativeCode2.jpg)
 
-## ⦁	WEEK 1 - September 8
+## ⦁	WEEK 1 - September 8 -- [Slide Presentation From Class Can be Found Here](https://docs.google.com/presentation/d/1ZXSt4ion48TeZsl9AprWCS4x-_gU4ahLMZSWCS92l8A/edit#slide=id.p)
 
 ⦁	Housekeeping - Ritual reading of the syllabus
 
@@ -20,7 +20,7 @@
 
 ⦁	brief intro to color
 
-⦁	Assignment
+## ⦁	Assignment
 
   ⦁	Create an online blog for the class and send me the link
 
