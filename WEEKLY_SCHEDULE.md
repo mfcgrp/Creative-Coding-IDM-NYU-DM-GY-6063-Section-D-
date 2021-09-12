@@ -83,7 +83,7 @@ Sol Lewitt drawing exercise. As precisely as possible, follow the instructions o
 
   ⦁	you down with oop? A brief introduction to making objects in p5js
 
-⦁	Assignments
+## ⦁	Assignments
 
   ⦁	watch [videos on objects](https://www.youtube.com/playlist?list=PLnkvii1uWBvHpcbXFMlbSsCys2UhtMr7w)
 
@@ -108,7 +108,7 @@ Sol Lewitt drawing exercise. As precisely as possible, follow the instructions o
 
 ⦁	a bit about pseudocode
 
-⦁	Assignments
+## ⦁	Assignments
 
   ⦁	watch [these 4 short videos about debugging](https://vimeo.com/channels/debugging) It’s about code and hardware, but it’s super useful for orienting yourself mentally to tackle this stupid important process
 
@@ -128,7 +128,7 @@ Sol Lewitt drawing exercise. As precisely as possible, follow the instructions o
 
 ⦁	recording things
 
-⦁	Assignments
+## ⦁	Assignments
 
   ⦁	watch [working with APIs and JSON](https://www.youtube.com/playlist?list=PLnkvii1uWBvHG11Cyyvb3rxC5QXi7OMzH)
 
@@ -150,11 +150,11 @@ Sol Lewitt drawing exercise. As precisely as possible, follow the instructions o
 
 ⦁	working with libraries
 
-⦁	Assignments
+## ⦁	Assignments
 
-  ⦁	watch ⦁	this series of videos on the DOM
+  ⦁	watch 	this series of videos on the DOM
 
-  ⦁	watch ⦁	this video series on the audio library
+  ⦁	watch 	this video series on the audio library
 
   ⦁	optionally watch these videos on the ⦁	scribble and ⦁	RiTa libraries
 
