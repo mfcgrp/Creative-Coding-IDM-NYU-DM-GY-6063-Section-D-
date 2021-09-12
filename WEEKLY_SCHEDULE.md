@@ -40,33 +40,34 @@ Sol Lewitt drawing exercise. As precisely as possible, follow the instructions o
 
 ##	WEEK 2 - September 15
 
-⦁	pre-work
 
-⦁	watch ⦁	[videos on variables, conditionals](https://www.youtube.com/playlist?list=PLnkvii1uWBvFCo84lUMwR2Sgxe1yWOt6Z)
+⦁	watch	[videos on variables, conditionals](https://www.youtube.com/playlist?list=PLnkvii1uWBvFCo84lUMwR2Sgxe1yWOt6Z)
 
-⦁	watch video on ⦁	[local development](https://www.youtube.com/watch?v=NTGebvhZ4kk)
+⦁	watch video on	[local development](https://www.youtube.com/watch?v=NTGebvhZ4kk)
 
   ⦁	discussion of campbell article
 
   ⦁	review your work, q&a - what worked for you and what didn’t?
+  
+  ⦁	discuss syntax
 
   ⦁	animation, and time discussion
 
-  ⦁	link of the week - ⦁	For Your Processing
+  ⦁	discuss github
 
-⦁	Assignment
+## ⦁	Assignment
 
-  ⦁	Watch the ⦁	[videos on loops](https://www.youtube.com/playlist?list=PLnkvii1uWBvFPvNnW66SU9u5T1a35eKRp)
+  ⦁	Watch the 	[videos on loops](https://www.youtube.com/playlist?list=PLnkvii1uWBvFPvNnW66SU9u5T1a35eKRp)
 
-  ⦁	Watch the ⦁	[videos on functions](https://www.youtube.com/playlist?list=PLnkvii1uWBvG7DY6mCeW3Yn6IdmQ8qm1V)
+  ⦁	Watch the 	[videos on functions](https://www.youtube.com/playlist?list=PLnkvii1uWBvG7DY6mCeW3Yn6IdmQ8qm1V)
 
-  ⦁	Optional but encouraged ⦁	[videos on translation](https://www.youtube.com/playlist?list=PLnkvii1uWBvE1LbyWKMRtoLC2XaIcN8gN)
+  ⦁	Optional but encouraged 	[videos on translation](https://www.youtube.com/playlist?list=PLnkvii1uWBvE1LbyWKMRtoLC2XaIcN8gN)
 
-  ⦁	Read ⦁	[p5.js Tutorial on interaction,](https://p5js.org/learn/interactivity.html) in particular pay attention to the section on Events. The aspects in the aricle that describe mouseOver() and mouseOut() are our of scope for our discussion at the moment, so don’t worry if you don’t entirely get what it’s describing.
+  ⦁	Read 	[p5.js Tutorial on interaction,](https://p5js.org/learn/interactivity.html) in particular pay attention to the section on Events. The aspects in the aricle that describe mouseOver() and mouseOut() are our of scope for our discussion at the moment, so don’t worry if you don’t entirely get what it’s describing.
 
-  ⦁	Read ⦁	[The Art of Interactive Design Chapter 1.](https://shibboleth.nyu.edu/idp/profile/SAML2/POST/SSO?execution=e1s1) Online access provided by NYU libraries. Write a response to this on your blog — Crawford defines interaction as something that can happen along a continuum, from a simple switch to a deep and engaging conversation. How do you define interaction? Would you consider a book to be interactive? What about a plant you need to care for? How about a puppy? What about your sketches?
+  ⦁	Read 	[The Art of Interactive Design Chapter 1.](https://shibboleth.nyu.edu/idp/profile/SAML2/POST/SSO?execution=e1s1) Online access provided by NYU libraries. Write a response to this on your blog — Crawford defines interaction as something that can happen along a continuum, from a simple switch to a deep and engaging conversation. How do you define interaction? Would you consider a book to be interactive? What about a plant you need to care for? How about a puppy? What about your sketches?
 
-  ⦁	Suggested Reading ⦁	[Getting Started With p5.js](https://shibboleth.nyu.edu/idp/profile/SAML2/POST/SSO?execution=e2s1) Chapters 4-6. Online access provided by NYU libraries.
+  ⦁	Suggested Reading	[Getting Started With p5.js](https://shibboleth.nyu.edu/idp/profile/SAML2/POST/SSO?execution=e2s1) Chapters 4-6. Online access provided by NYU libraries.
 
   ⦁	Create one of the following and post a link to the sketch on your website
 
