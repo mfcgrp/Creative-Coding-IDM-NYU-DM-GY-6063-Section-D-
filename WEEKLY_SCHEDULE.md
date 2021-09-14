@@ -31,11 +31,11 @@ Sol Lewitt drawing exercise. As precisely as possible, follow the instructions o
 [Wall Drawing #396 (1983):](https://massmoca.org/event/walldrawing396/A) black five-pointed star, a yellow six-pointed star, a red seven-pointed star, and a blue eight-pointed star, drawn in color and India ink washes.
 [Wall Drawing #915 (1999):](https://massmoca.org/event/walldrawing915/) Arcs, circle, and irregular bands.
 
-  ⦁	Read ⦁	[Delusions of Dialogue: Control and Choice in Interactive Art by Jim Campbell.](https://www.jstor.org/stable/1576847) Access provided online by NYU library. Write a response to this on your blog, 150-250 words. What do you think of Campbell’s articulation of art in a computer?
+  ⦁	Read 	[Delusions of Dialogue: Control and Choice in Interactive Art by Jim Campbell.](https://www.jstor.org/stable/1576847) Access provided online by NYU library. Write a response to this on your blog, 150-250 words. What do you think of Campbell’s articulation of art in a computer?
 
-  ⦁	Read ⦁	[pages 10-41 ‘What is Code’ and ‘From and Computers’ in FORM+CODE](https://shibboleth.nyu.edu/idp/profile/SAML2/POST/SSO?execution=e1s1) available online though NYU Libraries.
+  ⦁	Read 	[pages 10-41 ‘What is Code’ and ‘From and Computers’ in FORM+CODE](https://shibboleth.nyu.edu/idp/profile/SAML2/POST/SSO?execution=e1s1) available online though NYU Libraries.
 
-  ⦁	Suggested Reading ⦁	[Getting Started With p5.js](https://shibboleth.nyu.edu/idp/profile/SAML2/POST/SSO?execution=e2s1) Chapters 1-3. Online access provided by NYU libraries.
+  ⦁	Suggested Reading 	[Getting Started With p5.js](https://shibboleth.nyu.edu/idp/profile/SAML2/POST/SSO?execution=e2s1) Chapters 1-3. Online access provided by NYU libraries.
 
 
 ##	WEEK 2 - September 15
