@@ -53,7 +53,7 @@ Sol Lewitt drawing exercise. As precisely as possible, follow the instructions o
 
   ⦁	animation, and time discussion
 
-  ⦁	discuss processing
+  ⦁	discuss [processing](https://processing.org/)
 
 ## ⦁	Assignment
 
