@@ -35,7 +35,7 @@ Sol Lewitt drawing exercise. As precisely as possible, follow the instructions o
 
   ⦁	Read 	[pages 10-41 ‘What is Code’ and ‘From and Computers’ in FORM+CODE](https://shibboleth.nyu.edu/idp/profile/SAML2/POST/SSO?execution=e1s1) available online though NYU Libraries.
 
-  ⦁	Suggested Reading 	[Getting Started With p5.js](https://shibboleth.nyu.edu/idp/profile/SAML2/POST/SSO?execution=e2s1) Chapters 1-3. Online access provided by NYU libraries.
+  ⦁	Read 	[Getting Started With p5.js](https://shibboleth.nyu.edu/idp/profile/SAML2/POST/SSO?execution=e2s1) Chapters 1-3. Online access provided by NYU libraries.
 
 
 ##	WEEK 2 - September 15
@@ -69,7 +69,7 @@ Sol Lewitt drawing exercise. As precisely as possible, follow the instructions o
 
   ⦁	Read 	[The Art of Interactive Design Chapter 1.](https://shibboleth.nyu.edu/idp/profile/SAML2/POST/SSO?execution=e1s1) Online access provided by NYU libraries. Write a response to this on your blog — Crawford defines interaction as something that can happen along a continuum, from a simple switch to a deep and engaging conversation. How do you define interaction? Would you consider a book to be interactive? What about a plant you need to care for? How about a puppy? What about your sketches?
 
-  ⦁	Suggested Reading	[Getting Started With p5.js](https://shibboleth.nyu.edu/idp/profile/SAML2/POST/SSO?execution=e2s1) Chapters 4-6. Online access provided by NYU libraries.
+  ⦁	Read	[Getting Started With p5.js](https://shibboleth.nyu.edu/idp/profile/SAML2/POST/SSO?execution=e2s1) Chapters 4-6. Online access provided by NYU libraries.
 
   ⦁	Create one of the following and post a link to the sketch on your website
 
