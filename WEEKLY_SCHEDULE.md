@@ -54,6 +54,8 @@ Sol Lewitt drawing exercise. As precisely as possible, follow the instructions o
   ⦁	animation, and time discussion
 
   ⦁	discuss [processing](https://processing.org/)
+  
+  ⦁	look at the wonderful resource [vidoes by Daniel Shiffman](https://www.youtube.com/c/TheCodingTrain/featured)
 
 ## ⦁	Assignment
 
