@@ -178,7 +178,9 @@ Sol Lewitt drawing exercise. As precisely as possible, follow the instructions o
 
 ⦁	read these notes on ⦁	video and image manipulation
 
-⦁	optionally read my harebrained ⦁	notes on video tracking and computer vision
+⦁	optionally read notes on video tracking and computer vision
+
+## Assignment
 
 ⦁	finish your midterm project. Write a post about your work, describing what you did and why you did it. Take a step back and refelct on what you would have done differently (if anything!) and the challenges you faced/overcame - this could be conceptual, technical, or aesthetic. Explain how you might continue to work on this project if you had the time and motivation to do so. Remember, your project must have the following elements : 1) pseudocode of what you set out to do, 2) well commented code that explains what functions, classes, and objects are doing in your program 3) clear attribution with links to other’s code as appropriate.
 
@@ -193,6 +195,8 @@ Sol Lewitt drawing exercise. As precisely as possible, follow the instructions o
 ⦁	watch these videos on ⦁	your Arduino Kit
 
 ⦁	watch these videos on ⦁	electricity and circuits
+
+## Assigment
 
 ⦁	buid a circuit with a switch you make on your own that can be operated without using your hands. Think about what you have that is conductive. Aluminum foil works well. Be careful you do not cause a short! Always unplug your Arduino before changing anything in your circuit, and check to make sure there are no loose wires. (Links will be sent on project ideas)
 
