@@ -81,9 +81,10 @@ Sol Lewitt drawing exercise. As precisely as possible, follow the instructions o
 
   ⦁	review your work
 
-  ⦁	question & answer time! nothimng should be unclear after this class ;)
-
+  ⦁	Class Sketch (We will work together to create an interactive sketch using loops & mouse & other things)
+  
   ⦁	you down with oop? A brief introduction to making objects in p5js
+  
 
 ## ⦁	Assignments
 
