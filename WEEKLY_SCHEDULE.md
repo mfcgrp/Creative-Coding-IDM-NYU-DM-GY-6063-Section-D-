@@ -38,7 +38,7 @@ Sol Lewitt drawing exercise. As precisely as possible, follow the instructions o
   ⦁	Read 	[Getting Started With p5.js](https://shibboleth.nyu.edu/idp/profile/SAML2/POST/SSO?execution=e2s1) Chapters 1-3. Online access provided by NYU libraries.
 
 
-##	WEEK 2 - September 15
+##	WEEK 2 - September 15 [Slide Presentation from this weeks class can be found here](https://docs.google.com/presentation/d/1OklkvvqjHh6wg1TPQIpMoBnvNycPFDQI4yLANm_LANQ/edit#slide=id.gf0346f5451_0_0)
 
 
 ⦁	watch	[videos on variables, conditionals](https://www.youtube.com/playlist?list=PLnkvii1uWBvFCo84lUMwR2Sgxe1yWOt6Z)
