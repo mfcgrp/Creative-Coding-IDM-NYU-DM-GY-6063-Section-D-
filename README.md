@@ -5,7 +5,7 @@
 *	Instructor: Melissa F Clarke
 *	Instructor Email: 	mfc312@nyu.edu
 *	Class meeting: Wed 6:30pm – 9:20pm, 370 Jay Street, Room 312 (3rd Floor)
-*	Office Hours: 	Tuesdays 6-7:30pm
+*	Office Hours: 	Wed 5-6:30pm
    
    ## This is an overview. See [weekly schedule](WEEKLY_SCHEDULE.md) for assignments and weekly presentations & recordings.
    
