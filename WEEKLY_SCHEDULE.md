@@ -79,9 +79,9 @@ Sol Lewitt drawing exercise. As precisely as possible, follow the instructions o
 
 ##	WEEK 3 - September 22
 
-  ⦁	review your work
+  ⦁	review your work & the reading ; we will look at examples of interactive art/design
 
-  ⦁	Class Sketch (We will work together to create an interactive sketch using loops & mouse & other things)
+  ⦁	Class Sketch (We will work together on one to two sketches from an example)
   
   ⦁	you down with oop? A brief introduction to making objects in p5js
   
