@@ -99,6 +99,7 @@ Sol Lewitt drawing exercise. As precisely as possible, follow the instructions o
   ⦁	suggested reading ⦁	[Getting Started With p5.js](https://ebookcentral.proquest.com/auth/lib/nyulibrary-ebooks/login.action?returnURL=https%3A%2F%2Febookcentral.proquest.com%2Flib%2Fnyulibrary-ebooks%2Freader.action%3FdocID%3D4333728%26ppg%3D173) Chapters 10 & 11. Online access provided by NYU libraries.
 
   ⦁	Watch [the video for Around the World by Daft Punk](https://www.youtube.com/watch?v=LKYPYj2XX80) While you’re enjoying the music, think about how each of the different dancers/monsters in the video are like an object. They are similar, but have their own behaviors.
+  
   ⦁	 Create a sketch that has a dance party. Use multiple instances of a class, or create multiple classes and many objects thsat have their own dance party. Your idea of a dance party may not have actual bodies, that’s ok. Explore different kinds of ways of creating objects with unique behaviors. Post this on your class site.
 
 ## 	WEEK 4 - September 29
