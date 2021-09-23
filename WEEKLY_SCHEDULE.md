@@ -77,7 +77,7 @@ Sol Lewitt drawing exercise. As precisely as possible, follow the instructions o
 
   ⦁	using your mouse and a simple shape (rect, ellipse, arc, triangle, line, polygon), create an interaction that causes the shape to demonstrate an emotion. It could be fear, attraction, desire, exhaustion. Your choice. Obviously mouseX and mouseY are helpful. Examples like this [easing function](https://p5js.org/examples/input-easing.html) might be inspirational, as would notes from the [12 principles of animation](https://vimeo.com/93206523)
 
-##	WEEK 3 - September 22
+##	WEEK 3 - September 22 [Presentation from this weeks class can be found here](https://docs.google.com/presentation/d/1dtl9SzZA3a8jYb932ACJX9cSt4OKaP_oYO3BtOrfb-U/edit#slide=id.gf0346f5451_0_0)
 
   ⦁	review your work & the reading ; we will look at examples of interactive art/design
 
