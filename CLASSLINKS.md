@@ -1,7 +1,7 @@
 
-## Assignment 1
+## Class Links
 
-Jess Bassil
+[Jess Bassil]( https://www.jessikabassil.com/blog/)
 
 [Ren Ciarrocchi](https://www.tumblr.com/blog/view/creative-coding-ren)
 
