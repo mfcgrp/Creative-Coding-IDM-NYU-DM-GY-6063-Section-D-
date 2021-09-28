@@ -104,9 +104,13 @@ Sol Lewitt drawing exercise. As precisely as possible, follow the instructions o
 
 ## 	WEEK 4 - September 29
 
+⦁	Discuss the reading and the homework
+
 ⦁	Bradford Paley’s [CodeProfiles](http://wbradfordpaley.com/live/)
 
-⦁	questions and answers about objects and arrays
+⦁	looking back at early technology and art
+
+. look at more recent tech based art
 
 ⦁	organizing your code into multiple files - aka bliss
 
