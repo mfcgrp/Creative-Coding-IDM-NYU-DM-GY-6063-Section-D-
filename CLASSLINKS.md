@@ -15,7 +15,7 @@ Ainur Kalimoldayeva
 
 [Rachael Lu](https://rachzl.weebly.com/creative-coding)
 
-Bryan McAdams
+[Bryan McAdams](
 
 [Renfei Wang](https://wp.nyu.edu/tandonschoolofengineering-wangccoding/)
 
