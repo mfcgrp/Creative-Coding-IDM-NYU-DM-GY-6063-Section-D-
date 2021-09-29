@@ -106,15 +106,13 @@ Sol Lewitt drawing exercise. As precisely as possible, follow the instructions o
 
 ⦁	Discuss the reading and the homework
 
-⦁	Bradford Paley’s [CodeProfiles](http://wbradfordpaley.com/live/)
-
 ⦁	looking back at early technology and art
 
-. look at more recent tech based art
-
-⦁	organizing your code into multiple files - aka bliss
+. look at more recent tech based art including radford Paley’s [CodeProfiles](http://wbradfordpaley.com/live/)
 
 ⦁	a bit about pseudocode
+
+⦁	organizing your code into multiple files - aka bliss; creating a web based sketch
 
 ## ⦁	Assignments
 
