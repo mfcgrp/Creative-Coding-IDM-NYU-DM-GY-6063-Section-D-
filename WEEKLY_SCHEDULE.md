@@ -123,6 +123,8 @@ Sol Lewitt drawing exercise. As precisely as possible, follow the instructions o
   ⦁	watch [Objects talking with other objects](https://www.youtube.com/playlist?list=PLnkvii1uWBvEF5xAptvHOpn7tXpDvBKty)
 
   ⦁	watch [More about arrays](https://www.youtube.com/playlist?list=PLnkvii1uWBvFGoi0yz3Fx93F4tlsucJ03)
+  
+   ⦁	read [WHEN ARTISTS, ENGINEERS, AND PEPSICO COLLABORATED](https://spectrum.ieee.org/when-artists-engineers-and-pepsico-collaborated-then-clashed-at-the-1970-worlds-fair)
 
   ⦁	Create a sketch that adds objects based on interaction (mousepress, keystroke, etc) that interact with each other (collision, repulsion, etc.) or create a sketch that makes faces which have multiple dimensions of variability (skin color, eyes, ears, mouth, hair, age, etc). A new face should eb created everytime you click the mouse. For either example, write the sketch as pseudo-code first, then fill in your code afterwards.
 
