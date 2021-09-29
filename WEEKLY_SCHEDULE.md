@@ -108,11 +108,11 @@ Sol Lewitt drawing exercise. As precisely as possible, follow the instructions o
 
 ⦁	looking back at early technology and art
 
-. look at more recent tech based art including radford Paley’s [CodeProfiles](http://wbradfordpaley.com/live/)
+. look at more recent tech based art & design
 
 ⦁	a bit about pseudocode
 
-⦁	organizing your code into multiple files - aka bliss; creating a web based sketch
+⦁	Review
 
 ## ⦁	Assignments
 
@@ -123,6 +123,8 @@ Sol Lewitt drawing exercise. As precisely as possible, follow the instructions o
   ⦁	watch [Objects talking with other objects](https://www.youtube.com/playlist?list=PLnkvii1uWBvEF5xAptvHOpn7tXpDvBKty)
 
   ⦁	watch [More about arrays](https://www.youtube.com/playlist?list=PLnkvii1uWBvFGoi0yz3Fx93F4tlsucJ03)
+  
+  . Additional [Moving Objects from Arrays[(https://www.youtube.com/watch?v=tA_ZgruFF9k) ; [Arrays of Objects](https://www.youtube.com/watch?v=fBqaA7zRO58)
   
    ⦁	read [WHEN ARTISTS, ENGINEERS, AND PEPSICO COLLABORATED](https://spectrum.ieee.org/when-artists-engineers-and-pepsico-collaborated-then-clashed-at-the-1970-worlds-fair)
 Reasearch an artist or collaborative that inspires you using code, interaction or technology of the last century. Be prepared to present for five minutes in class.
