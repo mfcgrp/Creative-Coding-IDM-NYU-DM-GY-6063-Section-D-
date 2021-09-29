@@ -125,8 +125,10 @@ Sol Lewitt drawing exercise. As precisely as possible, follow the instructions o
   ⦁	watch [More about arrays](https://www.youtube.com/playlist?list=PLnkvii1uWBvFGoi0yz3Fx93F4tlsucJ03)
   
    ⦁	read [WHEN ARTISTS, ENGINEERS, AND PEPSICO COLLABORATED](https://spectrum.ieee.org/when-artists-engineers-and-pepsico-collaborated-then-clashed-at-the-1970-worlds-fair)
+Reasearch an artist or collaborative that inspires you using code, interaction or technology of the last century. Be prepared to present for five minutes in class.
 
-  ⦁	Create a sketch that adds objects based on interaction (mousepress, keystroke, etc) that interact with each other (collision, repulsion, etc.) or create a sketch that makes faces which have multiple dimensions of variability (skin color, eyes, ears, mouth, hair, age, etc). A new face should eb created everytime you click the mouse. For either example, write the sketch as pseudo-code first, then fill in your code afterwards.
+  ⦁	Work on a previous sketch that used interaction (mousepress, keystroke, etc) that now has objects that interact with each other (collision, repulsion, etc.) If you have already done that. See if you can expand on the sketches dynaics of color, opacity and scale. See if you can embed the sketch on a webpage or github page.
+See these links for how to do that. [How to embed sketches](http://cmuems.com/2018/60212f/resources/embedding-p5js/) ; [Hosting a sketch on GithubPages](https://www.youtube.com/watch?v=ZneWjyn18e8)
 
 ##	WEEK 5 - October 6
 
