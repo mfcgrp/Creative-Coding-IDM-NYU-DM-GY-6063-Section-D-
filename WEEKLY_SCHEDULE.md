@@ -102,7 +102,7 @@ Sol Lewitt drawing exercise. As precisely as possible, follow the instructions o
   
   ⦁	 Create a sketch that has a dance party. Use multiple instances of a class, or create multiple classes and many objects thsat have their own dance party. Your idea of a dance party may not have actual bodies, that’s ok. Explore different kinds of ways of creating objects with unique behaviors. Post this on your class site.
 
-## 	WEEK 4 - September 29
+## 	WEEK 4 - September 29 [Presentation from class can be found here](https://docs.google.com/presentation/d/1LarC6AFXNUUoQY-zdok2gD7Qy_Tx9nNv05DGI2Z6wzs/edit?usp=sharing)
 
 ⦁	Discuss the reading and the homework
 
