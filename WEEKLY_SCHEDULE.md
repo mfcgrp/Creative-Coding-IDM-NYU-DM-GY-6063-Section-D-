@@ -144,9 +144,9 @@ See these links for how to do that. [How to embed sketches](http://cmuems.com/20
 
 ## ⦁	Assignments
 
-  ⦁	watch [working with APIs and JSON](https://www.youtube.com/playlist?list=PLnkvii1uWBvHG11Cyyvb3rxC5QXi7OMzH)
+  ⦁	watch ALL of the videos [working with APIs and JSON](https://www.youtube.com/playlist?list=PLnkvii1uWBvHG11Cyyvb3rxC5QXi7OMzH)
 
-  ⦁	Look at examples of data based art and prepare to present examples
+  ⦁	Research examples of data based art and prepare to present examples
 
   ⦁	Suggested Reading [Getting Started With p5.js](https://shibboleth.nyu.edu/idp/profile/SAML2/POST/SSO?execution=e1s1) 
 Chapter 12 on Data. Online access provided by NYU libraries.
