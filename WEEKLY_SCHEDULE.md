@@ -134,11 +134,13 @@ See these links for how to do that. [How to embed sketches](http://cmuems.com/20
 
 ##	WEEK 5 - October 6
 
-⦁	review work
+⦁	review work & present artists or designers that inspire or create a conversation with you
 
 ⦁	Vectors
 
-⦁	recording things
+⦁	Rcording Things
+
+⦁	Discuss Midterms & Libraries
 
 ## ⦁	Assignments
 
