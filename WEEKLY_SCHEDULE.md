@@ -136,19 +136,20 @@ See these links for how to do that. [How to embed sketches](http://cmuems.com/20
 
 ⦁	review work & present artists or designers that inspire or create a conversation with you
 
-⦁	Vectors
+⦁	Intro to data based art/design (looking at examples discussing)
 
-⦁	Rcording Things
+⦁	Intro to JASON, APIs and creating data based work
 
-⦁	Discuss Midterms & Libraries
+⦁	Discuss Midterms
 
 ## ⦁	Assignments
 
   ⦁	watch [working with APIs and JSON](https://www.youtube.com/playlist?list=PLnkvii1uWBvHG11Cyyvb3rxC5QXi7OMzH)
 
-  ⦁	Look at examples of data based art
+  ⦁	Look at examples of data based art and prepare to present examples
 
-  ⦁	Suggested Reading [Getting Started With p5.js](https://shibboleth.nyu.edu/idp/profile/SAML2/POST/SSO?execution=e1s1) Chapter 12 on Data. Online access provided by NYU libraries.
+  ⦁	Suggested Reading [Getting Started With p5.js](https://shibboleth.nyu.edu/idp/profile/SAML2/POST/SSO?execution=e1s1) 
+Chapter 12 on Data. Online access provided by NYU libraries.
 
   ⦁	read ⦁	Art and the API by Jer Thorp reflect of how you can use data from an API to tell a story or be persuasive.
 
