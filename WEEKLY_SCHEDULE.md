@@ -145,6 +145,8 @@ See these links for how to do that. [How to embed sketches](http://cmuems.com/20
 ## ⦁	Assignments
 
   ⦁	watch ALL of the videos [working with APIs and JSON](https://www.youtube.com/playlist?list=PLnkvii1uWBvHG11Cyyvb3rxC5QXi7OMzH)
+  
+   ⦁	[watch Using API and p5js coding train](https://www.youtube.com/watch?v=ecT42O6I_WI) & [with user input](https://www.youtube.com/watch?v=4UoUqnjUC2c)
 
   ⦁	Research examples of data based art and prepare to present examples
 
