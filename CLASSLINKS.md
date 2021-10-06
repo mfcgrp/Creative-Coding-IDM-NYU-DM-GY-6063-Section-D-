@@ -9,7 +9,7 @@
 
 [Wen Ju Huang](https://wenju.squarespace.com/creative-coding-)
 
-Ajinkya Hukerikar
+[Ajinkya Hukerikar](https://wp.nyu.edu/tandonschoolofengineering-ash_creative_coding/)
 
 Ainur Kalimoldayeva
 
