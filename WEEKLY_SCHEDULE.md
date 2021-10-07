@@ -154,7 +154,7 @@ See these links for how to do that. [How to embed sketches](http://cmuems.com/20
   ⦁	Suggested Reading [Getting Started With p5.js](https://shibboleth.nyu.edu/idp/profile/SAML2/POST/SSO?execution=e1s1) 
 Chapter 12 on Data. Online access provided by NYU libraries.
 
-  ⦁	read ⦁	Art and the API by Jer Thorp reflect of how you can use data from an API to tell a story or be persuasive.
+  ⦁	read Optional!!	Art and the API by Jer Thorp reflect of how you can use data from an API to tell a story or be persuasive.
 
   ⦁	create a sketch that calls an API, processes the data, and visualizes it somehow. A non-exhaistive list of ⦁	publically available APIs can be found here
 
