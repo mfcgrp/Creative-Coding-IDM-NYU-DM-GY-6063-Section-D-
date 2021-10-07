@@ -132,7 +132,7 @@ Reasearch an artist or collaborative that inspires you using code, interaction o
   ⦁	Work on a previous sketch that used interaction (mousepress, keystroke, etc) that now has objects that interact with each other (collision, repulsion, etc.) If you have already done that. See if you can expand on the sketches dynaics of color, opacity and scale. See if you can embed the sketch on a webpage or github page.
 See these links for how to do that. [How to embed sketches](http://cmuems.com/2018/60212f/resources/embedding-p5js/) ; [Hosting a sketch on GithubPages](https://www.youtube.com/watch?v=ZneWjyn18e8)
 
-##	WEEK 5 - October 6
+##	WEEK 5 - October 6 [Slides from this week's class are hereeeeeee](https://docs.google.com/presentation/d/1wXLJCracoNpGQDNL4BdHPSRCPjW3mqqJifnR506My38/edit?usp=sharing)
 
 ⦁	review work & present artists or designers that inspire or create a conversation with you
 
@@ -146,7 +146,7 @@ See these links for how to do that. [How to embed sketches](http://cmuems.com/20
 
   ⦁	watch ALL of the videos [working with APIs and JSON](https://www.youtube.com/playlist?list=PLnkvii1uWBvHG11Cyyvb3rxC5QXi7OMzH)
   
-   ⦁	wath [ Using API and p5js coding train](https://www.youtube.com/watch?v=ecT42O6I_WI) & [with user input](https://www.youtube.com/watch?v=4UoUqnjUC2c)
+   ⦁	watch [ Using API and p5js coding train](https://www.youtube.com/watch?v=ecT42O6I_WI) & [with user input](https://www.youtube.com/watch?v=4UoUqnjUC2c)
  ⦁	optional & more compex [earthquake data](https://www.youtube.com/watch?v=ZiYdOwOrGyc)
 
   ⦁	Research examples of data based art and prepare to present examples
