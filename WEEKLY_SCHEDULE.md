@@ -149,8 +149,6 @@ See these links for how to do that. [How to embed sketches](http://cmuems.com/20
    ⦁	watch [ Using API and p5js coding train](https://www.youtube.com/watch?v=ecT42O6I_WI) & [with user input](https://www.youtube.com/watch?v=4UoUqnjUC2c)
  ⦁	optional & more compex [earthquake data](https://www.youtube.com/watch?v=ZiYdOwOrGyc)
 
-  ⦁	Research examples of data based art and prepare to present examples
-
   ⦁	Suggested Reading [Getting Started With p5.js](https://shibboleth.nyu.edu/idp/profile/SAML2/POST/SSO?execution=e1s1) 
 Chapter 12 on Data. Online access provided by NYU libraries.
 
