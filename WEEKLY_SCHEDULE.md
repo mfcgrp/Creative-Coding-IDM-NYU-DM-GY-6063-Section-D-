@@ -162,7 +162,9 @@ Chapter 12 on Data. Online access provided by NYU libraries.
 
 ⦁	Review your work with APIs
 
-⦁	Discuss your midterms
+⦁	Work in groups with API and data
+
+⦁	Present Midterm Ideas and Discuss Steps
 
 ⦁	working with libraries
 
