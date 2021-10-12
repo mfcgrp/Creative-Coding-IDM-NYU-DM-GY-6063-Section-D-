@@ -154,7 +154,7 @@ Chapter 12 on Data. Online access provided by NYU libraries.
 
   ⦁	read Optional!!	Art and the API by Jer Thorp reflect of how you can use data from an API to tell a story or be persuasive.
 
-  ⦁	create a sketch that calls an API, processes the data, and visualizes it somehow. A non-exhaistive list of ⦁	publically available APIs can be found here
+  ⦁	create a sketch that calls an API, processes the data, and visualizes it somehow. A non-exhaistive list of ⦁	[publically available APIs can be found here](https://github.com/public-apis/public-apis)
 
   ⦁	write a proposal for your midterm project. This includes a narrative description and a high level pseudocode explainer. Add sketches, gifs, and images as appropriate. Identify where you expect to run into trouble, or where you think you will have a gap in your knowledge.
 
@@ -170,11 +170,11 @@ Chapter 12 on Data. Online access provided by NYU libraries.
 
 ## ⦁	Assignments
 
-  ⦁	watch 	this series of videos on the DOM
+  ⦁	watch 	[this series of videos on the DOM](https://www.youtube.com/playlist?list=PLnkvii1uWBvGq4euiix5L8Hvi1XqtXNEh)
 
-  ⦁	watch 	this video series on the audio library
+  ⦁	watch 	[this video series on the audio library](https://www.youtube.com/playlist?list=PLnkvii1uWBvG6CDNIpcjq8pVfNQDIja0E)
 
-  ⦁	optionally watch these videos on the ⦁	scribble and ⦁	RiTa libraries
+  ⦁	optionally watch these videos on the ⦁	[scribble](https://www.youtube.com/watch?v=bCeDOS0dRIM) and ⦁	[RiTa libraries](https://www.youtube.com/watch?v=YO-OxXyceZs)
 
   ⦁	create a small sketch that uses a library to enahnce a sketch. For example, use the DOM to create sliders or buttons for interfaces, use peasycam to navigate a 3D space, use p5.scribble to mimic hand drawn images, etc etc etc.
 
