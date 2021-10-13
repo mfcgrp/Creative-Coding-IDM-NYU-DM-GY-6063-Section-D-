@@ -11,7 +11,7 @@
 
 [Ajinkya Hukerikar](https://wp.nyu.edu/tandonschoolofengineering-ash_creative_coding/)
 
-Ainur Kalimoldayeva
+[Ainur Kalimoldayeva](ainuradil.com/nyu/creative-coding/)
 
 [Rachael Lu](https://rachzl.weebly.com/creative-coding)
 
