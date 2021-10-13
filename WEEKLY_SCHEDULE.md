@@ -138,7 +138,7 @@ See these links for how to do that. [How to embed sketches](http://cmuems.com/20
 
 ⦁	Intro to data based art/design (looking at examples discussing)
 
-⦁	Intro to JASON, APIs and creating data based work
+⦁	Intro to JSON, APIs and creating data based work
 
 ⦁	Discuss Midterms
 
@@ -162,11 +162,10 @@ Chapter 12 on Data. Online access provided by NYU libraries.
 
 ⦁	Review your work with APIs
 
-⦁	Work in groups with API and data
+⦁	Work in groups with API and Data or Sound and Image
 
 ⦁	Present Midterm Ideas and Discuss Steps
 
-⦁	working with libraries
 
 ## ⦁	Assignments
 
