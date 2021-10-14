@@ -158,7 +158,7 @@ Chapter 12 on Data. Online access provided by NYU libraries.
 
   ⦁	write a proposal for your midterm project. This includes a narrative description and a high level pseudocode explainer. Add sketches, gifs, and images as appropriate. Identify where you expect to run into trouble, or where you think you will have a gap in your knowledge.
 
-##	WEEK 6 - October 13
+##	WEEK 6 - October 13 [Slides from class here](https://docs.google.com/presentation/d/1-poQV5y0NYCen1wFn4ExYbozDcL7mb2K7T9GgUCM_sE/edit?usp=sharing)
 
 ⦁	Review your work with APIs
 
@@ -175,9 +175,10 @@ Chapter 12 on Data. Online access provided by NYU libraries.
 
   ⦁	optionally watch these videos on the ⦁	[scribble](https://www.youtube.com/watch?v=bCeDOS0dRIM) and ⦁	[RiTa libraries](https://www.youtube.com/watch?v=YO-OxXyceZs)
 
-  ⦁	create a small sketch that uses a library to enahnce a sketch. For example, use the DOM to create sliders or buttons for interfaces, use peasycam to navigate a 3D space, use p5.scribble to mimic hand drawn images, etc etc etc.
+  ⦁	Add sound or images to a previous sketch, try interaction with video &/or use a library to enhance a sketch. For example, use the DOM to create sliders or buttons for interfaces, use peasycam to navigate a 3D space, use p5.scribble to mimic hand drawn images, etc etc etc. Or, continue working with data, api and add visual or sonic elements, try using your own CSV file.
 
-  ⦁	continue to work on your midterm. You should have progressed to a point where you have a skeleton that has some basic functionality. You fully and write out as pseudocode/comments what functions, classes and objects you will need and what they will do.
+
+  ⦁	continue to work on your midterm. You should have progressed to a point where you have a skeleton that has some basic functionality. You fully and write out as pseudocode/comments what functions, classes and objects you will need and what they will do. Be prepared to present your progress.
 
 ##	WEEK 7 - October 20
 
