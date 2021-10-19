@@ -192,7 +192,7 @@ Chapter 12 on Data. Online access provided by NYU libraries.
 
 ⦁	optionally watch video tracking and image manipulation videos
 
-⦁	read these notes on ⦁	video and image manipulation
+⦁	read notes on video and image manipulation
 
 ⦁	optionally read notes on video tracking and computer vision
 
