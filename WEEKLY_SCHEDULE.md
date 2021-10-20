@@ -186,9 +186,7 @@ Chapter 12 on Data. Online access provided by NYU libraries.
 
 ⦁	midterm workshop
 
-⦁	video and image manipulation lecture
-
-⦁	Possible guest speaker on video and animation art with code
+⦁	video and image manipulation experiments
 
 ⦁	optionally watch video tracking and image manipulation videos
 
@@ -204,13 +202,13 @@ Chapter 12 on Data. Online access provided by NYU libraries.
 
 ⦁	Midterm presentations - everyone will have 5 minutes to present their work. Show what you did, share the link in the chat, and describe your process. What did you learn from this exercise?
 
-⦁	For those of you coming to class on Nov 4, bring the Arduino kit you received in the backpack you picked up. For thoae of you who are remote, make sure you have that available.
+⦁	Bring the Arduino kit you received.
 
-⦁	read these harebarined ⦁	notes on electricity
+⦁	notes on electricity
 
-⦁	watch these videos on ⦁	your Arduino Kit
+⦁	your Arduino Kit
 
-⦁	watch these videos on ⦁	electricity and circuits
+⦁	electricity and circuits
 
 ## Assigment
 
