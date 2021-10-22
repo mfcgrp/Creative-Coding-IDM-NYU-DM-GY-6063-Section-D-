@@ -180,7 +180,7 @@ Chapter 12 on Data. Online access provided by NYU libraries.
 
   ⦁	continue to work on your midterm. You should have progressed to a point where you have a skeleton that has some basic functionality. You fully and write out as pseudocode/comments what functions, classes and objects you will need and what they will do. Be prepared to present your progress.
 
-##	WEEK 7 - October 20
+##	WEEK 7 - October 20 [Slides from class here[(https://docs.google.com/presentation/d/1jEqmyfrtwYdzkuisPCQufXQ5XAxpz_LTzFemEBCBy_Q/edit#slide=id.gf0346f5451_0_0)
 
 ⦁	review questions about libraries and use - who found something cool?
 
