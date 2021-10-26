@@ -204,11 +204,11 @@ Chapter 12 on Data. Online access provided by NYU libraries.
 
 ⦁	Bring the Arduino kit you received.
 
-⦁	notes on electricity
+⦁	[notes on electricity](https://idmnyu.github.io/DM-GY-6063-Creative-Coding-A-Fall-2020/week1/)
 
-⦁	your Arduino Kit
+⦁	[your Arduino Kit](https://www.youtube.com/playlist?list=PLnkvii1uWBvFWWJ11lI1ml6p2pd5uqnHe)
 
-⦁	electricity and circuits
+⦁	[electricity and circuits](https://www.youtube.com/playlist?list=PLnkvii1uWBvEG_Vdgf9PDtCaDZCem3eoG)
 
 ## Assigment
 
