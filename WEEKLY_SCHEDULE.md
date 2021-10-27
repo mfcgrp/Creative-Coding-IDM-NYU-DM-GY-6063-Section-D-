@@ -212,7 +212,9 @@ Chapter 12 on Data. Online access provided by NYU libraries.
 
 ## Assigment
 
-⦁	buid a circuit with a switch you make on your own that can be operated without using your hands. Think about what you have that is conductive. Aluminum foil works well. Be careful you do not cause a short! Always unplug your Arduino before changing anything in your circuit, and check to make sure there are no loose wires. (Links will be sent on project ideas)
+⦁	buid a circuit with a switch you make on your own that can be operated without using your hands. Think about what you have that is conductive. 
+Aluminum foil works well. Or play with LEDs or conductive materials in a unique way.
+Be careful you do not cause a short! Always unplug your Arduino before changing anything in your circuit, and check to make sure there are no loose wires. (Links will be sent on project ideas)
 
 ##	WEEK 9 - November 3
 
