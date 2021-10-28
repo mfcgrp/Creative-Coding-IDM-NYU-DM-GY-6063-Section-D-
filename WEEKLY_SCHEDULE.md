@@ -200,7 +200,7 @@ Chapter 12 on Data. Online access provided by NYU libraries.
 
 ##WEEK 8 - October 27
 
-⦁	Midterm presentations - everyone will have 5 minutes to present their work. Show what you did, share the link in the chat, and describe your process. What did you learn from this exercise?
+⦁	Midterm presentations - Show what you did, share the link in the chat, and describe your process. What did you learn from this exercise?
 
 ⦁	Bring the Arduino kit you received. We will have a short intro
 
@@ -214,7 +214,7 @@ Chapter 12 on Data. Online access provided by NYU libraries.
 ⦁	Watch [electricity and circuits](https://www.youtube.com/playlist?list=PLnkvii1uWBvEG_Vdgf9PDtCaDZCem3eoG)
 
 [Follow the steps to setting up your Arduino Nano BLE 33](https://www.arduino.cc/en/Guide/NANO33BLE#tutorials)
-Make your onboard LED blink at differebt intercals of time.
+Make your onboard LED blink at differebt intervals of time.
 
 ##	WEEK 9 - November 3
 
