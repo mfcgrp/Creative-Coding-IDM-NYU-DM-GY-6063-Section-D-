@@ -202,19 +202,19 @@ Chapter 12 on Data. Online access provided by NYU libraries.
 
 ⦁	Midterm presentations - everyone will have 5 minutes to present their work. Show what you did, share the link in the chat, and describe your process. What did you learn from this exercise?
 
-⦁	Bring the Arduino kit you received.
+⦁	Bring the Arduino kit you received. We will have a short intro
 
-⦁	[notes on electricity](https://idmnyu.github.io/DM-GY-6063-Creative-Coding-A-Fall-2020/week1/)
-
-⦁	[your Arduino Kit](https://www.youtube.com/playlist?list=PLnkvii1uWBvFWWJ11lI1ml6p2pd5uqnHe)
-
-⦁	[electricity and circuits](https://www.youtube.com/playlist?list=PLnkvii1uWBvEG_Vdgf9PDtCaDZCem3eoG)
 
 ## Assigment
 
-⦁	buid a circuit with a switch you make on your own that can be operated without using your hands. Think about what you have that is conductive. 
-Aluminum foil works well. Or play with LEDs or conductive materials in a unique way.
-Be careful you do not cause a short! Always unplug your Arduino before changing anything in your circuit, and check to make sure there are no loose wires. (Links will be sent on project ideas)
+⦁	Read	[notes on electricity](https://idmnyu.github.io/DM-GY-6063-Creative-Coding-A-Fall-2020/week1/)
+
+⦁	Watch [your Arduino Kit](https://www.youtube.com/playlist?list=PLnkvii1uWBvFWWJ11lI1ml6p2pd5uqnHe)
+
+⦁	Watch [electricity and circuits](https://www.youtube.com/playlist?list=PLnkvii1uWBvEG_Vdgf9PDtCaDZCem3eoG)
+
+[Follow the steps to setting up your Arduino Nano BLE 33](https://www.arduino.cc/en/Guide/NANO33BLE#tutorials)
+Make your onboard LED blink at differebt intercals of time.
 
 ##	WEEK 9 - November 3
 
