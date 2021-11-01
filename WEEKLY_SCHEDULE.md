@@ -223,13 +223,13 @@ Make your onboard LED blink at differebt intervals of time.
 
 ⦁	review your work - questions?
 
-⦁	read these harebarined ⦁	notes on digital input and output
+⦁	[notes on digital input and output](https://idmnyu.github.io/DM-GY-6063-Creative-Coding-A-Fall-2020/week2/)
 
-⦁	watch these ⦁	videos on setting up the Arduino IDE and what all those pins on your board do
+⦁	watch these [videos on setting up the Arduino IDE and what all those pins on your board do](https://www.youtube.com/playlist?list=PLnkvii1uWBvHxAOTwYt6S-NZjmy_GiXVF)
 
-⦁	watch these ⦁	videos on digital input and output
+⦁	watch these [videos on digital input and output](https://www.youtube.com/playlist?list=PLnkvii1uWBvFSOE0ZNar37xN8COzZhXaa)
 
-⦁	read this article from ⦁	Don Norman, Attractive Things Work Better
+⦁	read this article from [Don Norman, Attractive Things Work Better](https://jnd.org/emotion_design_attractive_things_work_better/)
 
 ⦁	muultimeter
 
