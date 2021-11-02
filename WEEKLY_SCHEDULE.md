@@ -220,6 +220,7 @@ Make your onboard LED blink at differebt intervals of time.
 
 
 ⦁	review your work - questions?
+[A closer look at the arduino we are using the 33BLE](https://store.arduino.cc/products/arduino-nano-33-ble)
 
 ⦁	[Look at Arduino project hub](https://create.arduino.cc/projecthub)
 
