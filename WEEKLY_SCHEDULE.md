@@ -226,6 +226,8 @@ Make your onboard LED blink at differebt intervals of time.
 
 ⦁	[What is a breadboard](https://www.youtube.com/watch?v=6WReFkfrUIk)
 
+⦁	[what are electronic components](https://www.youtube.com/watch?v=6Maq5IyHSuc)
+
 ⦁	[muultimeter](https://www.youtube.com/watch?v=ts0EVc9vXcs)
 
 ⦁	[Make an LED blink](https://create.arduino.cc/projecthub/glowascii/led-blinkies-arduino-basics-9a1bbb?ref=search&ref_id=led%20blink&offset=0)
