@@ -257,7 +257,7 @@ Make your onboard LED blink at differebt intervals of time.
 
 ⦁	optionally watch this video on building a capacitive touch sensor
 
-⦁	read the chapter I will distribute in slack
+⦁	[look at this switch using a light sensor](https://create.arduino.cc/projecthub/rafasj/twilight-switch-with-levels-fd3ad5?ref=search&ref_id=switches&offset=6)
 
 ⦁	read ⦁	these notes on analog Input/output
 
@@ -266,6 +266,8 @@ Make your onboard LED blink at differebt intervals of time.
 ##	WEEK 11 - November 17
 
 ⦁	review love machines!
+
+ ⦁	Guest Speaker
 
 ⦁	Serial communication with a microcontroller in class
 
