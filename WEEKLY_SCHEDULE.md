@@ -224,6 +224,10 @@ Make your onboard LED blink at differebt intervals of time.
 
 ⦁	[Look at Arduino project hub](https://create.arduino.cc/projecthub)
 
+⦁	[What is a breadboard](https://www.youtube.com/watch?v=6WReFkfrUIk)
+
+⦁	[muultimeter](https://www.youtube.com/watch?v=ts0EVc9vXcs)
+
 ⦁	[Make an LED blink](https://create.arduino.cc/projecthub/glowascii/led-blinkies-arduino-basics-9a1bbb?ref=search&ref_id=led%20blink&offset=0)
 
 ⦁	[Make a swtich in teams/aboutswitches](https://create.arduino.cc/projecthub/ronbentley1/understanding-and-using-button-switches-2ffe6c?ref=search&ref_id=switch&offset=36) &/or [this one](https://www.arduino.cc/en/tutorial/switch)
@@ -236,7 +240,6 @@ Make your onboard LED blink at differebt intervals of time.
 
 ⦁	read this article from [Don Norman, Attractive Things Work Better](https://jnd.org/emotion_design_attractive_things_work_better/)
 
-⦁	[muultimeter](https://www.youtube.com/watch?v=ts0EVc9vXcs)
 
 ⦁	[what’s up switches?](http://www.martyncurrey.com/switching-things-on-and-off-with-an-arduino/)
 
