@@ -232,7 +232,7 @@ Make your onboard LED blink at differebt intervals of time.
 
 ⦁	[Make an LED blink](https://create.arduino.cc/projecthub/glowascii/led-blinkies-arduino-basics-9a1bbb?ref=search&ref_id=led%20blink&offset=0)
 
-⦁	[Make a swtich in teams/aboutswitches](https://www.arduino.cc/en/Tutorial/BuiltInExamples/Button) &/or [this one](https://www.arduino.cc/en/tutorial/switch)
+⦁	[Make a swtich in teams/aboutswitches](https://www.arduino.cc/en/Tutorial/BuiltInExamples/Button) &/or [this one](https://www.arduino.cc/en/tutorial/switch) [Or this one](https://create.arduino.cc/projecthub/muhammad-aqib/arduino-button-tutorial-using-arduino-digitalread-function-08adb5)
 
 ⦁	[notes on digital input and output](https://idmnyu.github.io/DM-GY-6063-Creative-Coding-A-Fall-2020/week2/)
 
