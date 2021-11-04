@@ -234,7 +234,11 @@ Make your onboard LED blink at differebt intervals of time.
 
 ⦁	[Make a swtich in teams/aboutswitches](https://www.arduino.cc/en/Tutorial/BuiltInExamples/Button) &/or [this one](https://www.arduino.cc/en/tutorial/switch) [Or this one](https://create.arduino.cc/projecthub/muhammad-aqib/arduino-button-tutorial-using-arduino-digitalread-function-08adb5)
 
-⦁	[notes on digital input and output](https://idmnyu.github.io/DM-GY-6063-Creative-Coding-A-Fall-2020/week2/)
+
+## Assigment
+⦁	build a switch with LED(s) to provide some meaningful feedback. For example — if you are trying to notify someone that their posture is good or bad, could you make a switch that was based on how they stood, and notify them if they are not straight? What about gettting someone to smile for a camera? Using the digital input and output provide feedback to your user that is meaningful in context. Labeling LEDs with text, or using different colored lights to indicate things is helpful, try diffusing the light with paper or a ping pong ball, how does that change the quality of the light?
+
+⦁	Read [notes on digital input and output](https://idmnyu.github.io/DM-GY-6063-Creative-Coding-A-Fall-2020/week2/)
 
 ⦁	watch these [videos on setting up the Arduino IDE and what all those pins on your board do](https://www.youtube.com/playlist?list=PLnkvii1uWBvHxAOTwYt6S-NZjmy_GiXVF)
 
@@ -242,10 +246,8 @@ Make your onboard LED blink at differebt intervals of time.
 
 ⦁	read this article from [Don Norman, Attractive Things Work Better](https://jnd.org/emotion_design_attractive_things_work_better/)
 
+⦁	look at [what’s up switches?](http://www.martyncurrey.com/switching-things-on-and-off-with-an-arduino/) [&also (https://create.arduino.cc/projecthub/ronbentley1/understanding-and-using-button-switches-2ffe6c?ref=search&ref_id=switch&offset=36)
 
-⦁	[what’s up switches?](http://www.martyncurrey.com/switching-things-on-and-off-with-an-arduino/) [&also (https://create.arduino.cc/projecthub/ronbentley1/understanding-and-using-button-switches-2ffe6c?ref=search&ref_id=switch&offset=36)
-
-⦁	build a switch use the Arduino to provide some meaningful feedback on what the action you engage in means. For example — if you are trying to notify someone that their posture is good or bad, could you make a switch that was based on how they stood, and notify them if they are not straight? What about gettting someone to smile for a camera? Using the digital input and output provide feedback to your user that is meaningful in context. Labeling LEDs with text, or using different colored lights to indicate things is helpful, try diffusing the light with paper or a ping pong ball, how does that change the quality of the light?
 
 ## WEEK 10 - November 10
 
