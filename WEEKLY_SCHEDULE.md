@@ -251,19 +251,23 @@ Make your onboard LED blink at differebt intervals of time.
 
 ## WEEK 10 - November 10
 
-⦁	watch these videos on ⦁	analog input ⦁	 HYPERLINK "https://www.youtube.com/playlist?list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH"⦁	 HYPERLINK "https://www.youtube.com/playlist?list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH"⦁	 HYPERLINK "https://www.youtube.com/playlist?list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH"⦁	 HYPERLINK "https://www.youtube.com/playlist?list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH"⦁	 HYPERLINK "https://www.youtube.com/playlist?list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH"⦁	 HYPERLINK "https://www.youtube.com/playlist?list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH"⦁	 HYPERLINK "https://www.youtube.com/playlist?list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH"⦁	&⦁	 HYPERLINK "https://www.youtube.com/playlist?list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH"⦁	 HYPERLINK "https://www.youtube.com/playlist?list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH"⦁	 HYPERLINK "https://www.youtube.com/playlist?list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH"⦁	 HYPERLINK "https://www.youtube.com/playlist?list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH"⦁	 HYPERLINK "https://www.youtube.com/playlist?list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH"⦁	 HYPERLINK "https://www.youtube.com/playlist?list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH"⦁	 HYPERLINK "https://www.youtube.com/playlist?list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH"⦁	 output
+⦁	watch these videos on [analog input](https://www.youtube.com/playlist?list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH)	
 
-⦁	watch these videos on ⦁	servos and libraries
-
-⦁	optionally watch these videos on the built in sensors of your Arduino (IMUs! an acceleromteter, gyroscope and magnometer)
-
-⦁	optionally watch this video on building a capacitive touch sensor
+⦁	watch these videos on [servos and libraries](https://www.youtube.com/playlist?list=PLnkvii1uWBvGVXOz4owDTtIItr07wVluC)
 
 ⦁	[look at this switch using a light sensor](https://create.arduino.cc/projecthub/rafasj/twilight-switch-with-levels-fd3ad5?ref=search&ref_id=switches&offset=6)
 
-⦁	read ⦁	these notes on analog Input/output
+⦁	Go over ⦁	[these notes on analog Input/output](https://idmnyu.github.io/DM-GY-6063-Creative-Coding-A-Fall-2020/week3/)
 
-⦁	make/build/code a love compatiability machine. Using analog input and/or analog output, make a love compatiability machine. This could be 2 photocells that have an LED as an output, or a pair of buttons that enagge a servo motor, or one photocell that people need to clasp hands over, or anything else that demonstrates how to display how compatiable people are.
+⦁	Lab: Hackathon. In teams you will try to create some type of experience with light sensor or servo motor. Get crafty
+
+##Asignment
+
+⦁	watch these [videos on the built in sensors of your Arduino (IMUs! an acceleromteter, gyroscope and magnometer](https://www.youtube.com/watch?v=WJkn9ZmS9Gs)
+
+⦁	optionally watch this video on building a capacitive touch sensor (link to tba)
+
+⦁	make/build/code a love compatiability machine. Using analog input and/or analog output, make a love compatiability machine. This could be 2 photocells that have an LED as an output, or a pair of buttons that enagge a servo motor, or one photocell that people need to clasp hands over, or anything else that demonstrates how to display how compatiable people are, get crafty with materials!
 
 ##	WEEK 11 - November 17
 
