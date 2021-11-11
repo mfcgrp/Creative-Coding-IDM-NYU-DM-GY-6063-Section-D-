@@ -255,19 +255,19 @@ Make your onboard LED blink at differebt intervals of time.
 
 ⦁	watch these videos on [servos and libraries](https://www.youtube.com/playlist?list=PLnkvii1uWBvGVXOz4owDTtIItr07wVluC)
 
-⦁	[look at this switch using a light sensor](https://create.arduino.cc/projecthub/rafasj/twilight-switch-with-levels-fd3ad5?ref=search&ref_id=switches&offset=6)
-
 ⦁	Go over ⦁	[these notes on analog Input/output](https://idmnyu.github.io/DM-GY-6063-Creative-Coding-A-Fall-2020/week3/)
 
 ⦁	Lab: Hackathon. In teams you will try to create some type of experience with light sensor or servo motor. Get crafty
 
 ##Asignment
 
-⦁	watch these [videos on the built in sensors of your Arduino (IMUs! an acceleromteter, gyroscope and magnometer](https://www.youtube.com/watch?v=WJkn9ZmS9Gs)
+⦁	Go over ⦁	[these notes on analog Input/output](https://idmnyu.github.io/DM-GY-6063-Creative-Coding-A-Fall-2020/week3/)
 
-⦁	optionally watch this video on building a capacitive touch sensor (link to tba)
+⦁	watch these videos on [analog input](https://www.youtube.com/playlist?list=PLnkvii1uWBvFuwqE1hRamWnhmSlYVhIOH)	
 
-⦁	make/build/code a love compatiability machine. Using analog input and/or analog output, make a love compatiability machine. This could be 2 photocells that have an LED as an output, or a pair of buttons that enagge a servo motor, or one photocell that people need to clasp hands over, or anything else that demonstrates how to display how compatiable people are, get crafty with materials!
+⦁	watch these videos on [servos and libraries](https://www.youtube.com/playlist?list=PLnkvii1uWBvGVXOz4owDTtIItr07wVluC)
+
+⦁	make/build/code a project Using analog input and/or analog output. This could be 1 photocells that have an LED as an output, or a pair of buttons that enagge a servo motor, or one photocell that people need to clasp hands over, or anything else that demonstrates how to display ananlog input and output. Try to incorporate materials to make your device look unique. Make sure to document your process. What worked. What didn't work. Take pictures and comment in your code.
 
 ##	WEEK 11 - November 17
 
@@ -280,6 +280,7 @@ Make your onboard LED blink at differebt intervals of time.
 ⦁	read these ⦁	notes on serial commuication
 
 ⦁	Watch these ⦁	videos to review serial communication
+⦁	watch these [videos on the built in sensors of your Arduino (IMUs! an acceleromteter, gyroscope and magnometer](https://www.youtube.com/watch?v=WJkn9ZmS9Gs)
 
 ⦁	Watch ⦁	videos on Bluetooth communcation Life conspired against us, and I was ubnable to make this video content. I strongly reccommend ⦁	Tom Igoe’s notes on BLE communitcation
 
