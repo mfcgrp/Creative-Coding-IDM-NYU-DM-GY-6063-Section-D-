@@ -259,7 +259,8 @@ Make your onboard LED blink at differebt intervals of time.
 
 ⦁	Lab: Hackathon. In teams you will try to create some type of experience with light sensor or servo motor. Get crafty
 
-##Asignment
+
+## Asignment
 
 ⦁	Go over ⦁	[these notes on analog Input/output](https://idmnyu.github.io/DM-GY-6063-Creative-Coding-A-Fall-2020/week3/)
 
