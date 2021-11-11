@@ -268,7 +268,8 @@ Make your onboard LED blink at differebt intervals of time.
 
 ⦁	watch these videos on [servos and libraries](https://www.youtube.com/playlist?list=PLnkvii1uWBvGVXOz4owDTtIItr07wVluC)
 
-⦁	make/build/code a project Using analog input and/or analog output. This could be 1 photocells that have an LED as an output, or a pair of buttons that enagge a servo motor, or one photocell that people need to clasp hands over, or anything else that demonstrates how to display ananlog input and output. Try to incorporate materials to make your device look unique. Make sure to document your process. What worked. What didn't work. Take pictures and comment in your code.
+⦁	Make/build/code a project using analog input and/or analog output.
+This could be 1 photocell that has an LED as an output, or a button that engages a servo motor, or one photocell that people need to clasp hands over, or anything else that demonstrates how to display analog input and/or output. Try to incorporate materials to make your device look unique. Can you make it look like a mouse with LED eyes cutting paper and putting it over it? What crafty ways can this device engage others? There are no wrong answers here. Be creative! Don't be afraid to fail it's about process. Make sure to document your process. What worked. What didn't work. Take pictures and comment in your code.
 
 ##	WEEK 11 - November 17
 
