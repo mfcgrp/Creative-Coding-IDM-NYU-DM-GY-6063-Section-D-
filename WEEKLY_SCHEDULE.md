@@ -273,7 +273,7 @@ This could be 1 photocell that has an LED as an output, or a button that engages
 
 ##	WEEK 11 - November 17
 
-⦁	review love machines!
+⦁	review homework
 
  ⦁	Guest Speaker (rescheduled to next week!) we will start brainstormig on finals
 
