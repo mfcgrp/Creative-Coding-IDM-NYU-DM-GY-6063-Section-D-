@@ -275,18 +275,19 @@ This could be 1 photocell that has an LED as an output, or a button that engages
 
 ⦁	review love machines!
 
- ⦁	Guest Speaker
+ ⦁	Guest Speaker (rescheduled to next week!) we will start brainstormig on finals
 
 ⦁	Serial communication with a microcontroller in class
 
-⦁	read these ⦁	notes on serial commuication
+⦁	read these [notes on serial commuication](https://idmnyu.github.io/DM-GY-6063-Creative-Coding-A-Fall-2020/week9/serial.html)
 
-⦁	Watch these ⦁	videos to review serial communication
-⦁	watch these [videos on the built in sensors of your Arduino (IMUs! an acceleromteter, gyroscope and magnometer](https://www.youtube.com/watch?v=WJkn9ZmS9Gs)
-
-⦁	Watch ⦁	videos on Bluetooth communcation Life conspired against us, and I was ubnable to make this video content. I strongly reccommend ⦁	Tom Igoe’s notes on BLE communitcation
+⦁	Watch these [videos to review serial communication](https://www.youtube.com/playlist?list=PLnkvii1uWBvEprzkCJZbSAWsiqncWodoQ)
+⦁	Watch ⦁	videos on [Tom Igoe’s notes on BLE communitcation](https://itp.nyu.edu/physcomp/labs/lab-bluetooth-le-and-p5-ble/)
 
 ⦁	make/build/code control a sketch with a physical interface - take one of your early p5 sketches and make it controllable with a switch, pot or photocell using serial or bluetooth communcation. Alternatively, create a new p5 sketch that reacts to soem sort of input. How does this change in control transform the exerience of using the sketch?
+
+⦁	watch these [videos on the built in sensors of your Arduino (IMUs! an acceleromteter, gyroscope and magnometer](https://www.youtube.com/watch?v=WJkn9ZmS9Gs)
+
 
 ##	WEEK 12 - November 24
 
